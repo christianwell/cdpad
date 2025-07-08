@@ -22,11 +22,3 @@ Blank DSA keycaps 9
 
 
 
-
-# files
-
-pcb [here](Gerber_PCB2_2025-07-08.zip)
-firmware [here](main.py)
-case [here](case.step)
-
-

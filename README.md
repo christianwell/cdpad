@@ -7,7 +7,7 @@ i wanted to get into pcb and i saw this as a good start
 ![case](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0a954a1b1b5995506b12454605a75e09f4b77ecc_image.png)
 ![pcb](https://hc-cdn.hel1.your-objectstorage.com/s/v3/31406e58ec2b5cf75375592e744f9a49ce5599b0_image.png)
 
-![schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1cb91d139967d905e0bd7e6b882722aad73b8577_image.png)
+![schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/54cb254b5e3905692483d3319fcedb3973611a1d_image.png)
 
 # Parts 
 Seeed XIAO RP2040   1 cost $4.68

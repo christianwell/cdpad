@@ -3,10 +3,10 @@ a hackpad made by christian
 # why i made this
 i wanted to get into pcb and i saw this as a good start 
 # pics 
-![fullcase](https://hc-cdn.hel1.your-objectstorage.com/s/v3/54c7952918c9d2a3463c80d17f87c7efb5d5d9b2_image.png)
-![case](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0a954a1b1b5995506b12454605a75e09f4b77ecc_image.png)
-![pcb](https://hc-cdn.hel1.your-objectstorage.com/s/v3/989c6ac5e5d12c2f6eb7d40361536a5f8f435727_image.png)
-![pcb3d](https://hc-cdn.hel1.your-objectstorage.com/s/v3/40f19529bccfda8a7e06f8c23b69d5dd26de1a70_image.png)
+![fullcase](https://hc-cdn.hel1.your-objectstorage.com/s/v3/02c60dd050072763f07c280bb6ac6024668f2682_image.png)
+![case](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2d71d6448d59bf71550533c63a44d84ba3e2677c_image.png)
+![pcb](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6bc92f10d7bd5a5fd2892f28da997e661132d690_image.png)
+![pcb3d](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e255f81685db6af1e3b8d604777ad22707b78d36_image.png)
 ![schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/54cb254b5e3905692483d3319fcedb3973611a1d_image.png)
 
 # Parts 

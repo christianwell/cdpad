@@ -9,7 +9,7 @@ i wanted to get into pcb and i saw this as a good start
 
 ![schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1cb91d139967d905e0bd7e6b882722aad73b8577_image.png)
 
-# Parts/specs 
+# Parts 
 Seeed XIAO RP2040   1
 
 oled HS91L02W2C01  [1](https://lcsc.com/product-detail/image/HS91L02W2C01_C5248081.html)

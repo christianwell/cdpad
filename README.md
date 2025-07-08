@@ -3,9 +3,9 @@ a hackpad made by christian
 # why i made this
 i wanted to get into pcb and i saw this as a good start 
 # pics 
-![fullcase](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e0a6b8e526f0c5df6da025b8d61aeccc9747da11_screenshot_2025-07-08_17.49.47.png)
+![fullcase](https://hc-cdn.hel1.your-objectstorage.com/s/v3/54c7952918c9d2a3463c80d17f87c7efb5d5d9b2_image.png)
 ![case](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0a954a1b1b5995506b12454605a75e09f4b77ecc_image.png)
-![pcb](https://hc-cdn.hel1.your-objectstorage.com/s/v3/31406e58ec2b5cf75375592e744f9a49ce5599b0_image.png)
+![pcb](https://hc-cdn.hel1.your-objectstorage.com/s/v3/989c6ac5e5d12c2f6eb7d40361536a5f8f435727_image.png)
 
 ![schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/54cb254b5e3905692483d3319fcedb3973611a1d_image.png)
 

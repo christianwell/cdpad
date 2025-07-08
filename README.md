@@ -18,6 +18,8 @@ MX-Style switches   9
 
 Soldering Iron + Solder 1
 
+Blank DSA keycaps 9
+
 
 
 

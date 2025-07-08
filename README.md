@@ -10,15 +10,19 @@ i wanted to get into pcb and i saw this as a good start
 ![schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1cb91d139967d905e0bd7e6b882722aad73b8577_image.png)
 
 # Parts 
-Seeed XIAO RP2040   1
+Seeed XIAO RP2040   1 cost $4.68
 
-oled HS91L02W2C01  [1](https://lcsc.com/product-detail/image/HS91L02W2C01_C5248081.html)
+oled HS91L02W2C01  1 [$18.35
+](https://lcsc.com/product-detail/image/HS91L02W2C01_C5248081.html)
 
 MX-Style switches   9
 
 Soldering Iron + Solder 1
 
+
 Blank DSA keycaps 9
 
+3D Printed Case	1
+pcb 1
 
 

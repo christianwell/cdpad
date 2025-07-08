@@ -22,3 +22,8 @@ Soldering Iron + Solder 1
 
 
 # files
+
+pcb [here](Gerber_PCB2_2025-07-08.zip)
+case [here](case.step)
+
+

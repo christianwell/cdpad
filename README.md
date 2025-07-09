@@ -3,10 +3,10 @@ a hackpad made by christian
 # why i made this
 i wanted to get into pcb and i saw this as a good start 
 # pics 
-![fullcase](https://hc-cdn.hel1.your-objectstorage.com/s/v3/02c60dd050072763f07c280bb6ac6024668f2682_image.png)
-![case](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2d71d6448d59bf71550533c63a44d84ba3e2677c_image.png)
-![pcb](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6bc92f10d7bd5a5fd2892f28da997e661132d690_image.png)
-![pcb3d](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e255f81685db6af1e3b8d604777ad22707b78d36_image.png)
+![fullcase](https://hc-cdn.hel1.your-objectstorage.com/s/v3/17e11b3fd2e67a6ed20972cc04ff2dc4535a1bd4_image.png)
+![case](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7007b17aa3c95238025d1a36e0ca3759ae90a882_image.png)
+![pcb](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9abfa962f2efaa9dd30ca012dfa0c03510fe9eac_image.png)
+![pcb3d](https://hc-cdn.hel1.your-objectstorage.com/s/v3/65eaf4aa0fef3ef4f012c96d5700113dbab58664_image.png)
 ![schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/54cb254b5e3905692483d3319fcedb3973611a1d_image.png)
 
 # Parts 
@@ -25,4 +25,7 @@ Blank DSA keycaps 9
 3D Printed Case	1
 pcb 1
 
+M3x5mx4mm heatset inserts 4
+
+M3x16mm screws 4
 
